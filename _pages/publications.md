@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-
+<br>
 **Refactoring for reuse: an empirical study**<br>
 Eman Abdullah AlOmar, **Tianjia Wang**, Vaibhavi Raut, Mohamed Wiem Mkaouer, Christian Newman, Ali Ouni.<br>
 In Innovations in Systems and Software Engineering, 2022 \[[link](https://link.springer.com/article/10.1007/s11334-021-00422-6)]
