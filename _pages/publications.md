@@ -12,4 +12,4 @@ In Innovations in Systems and Software Engineering, 2022 \[[link](https://link.s
 
 **How do developers refactor code to improve code reusability?**<br>
 Eman Abdullah AlOmar, Philip T. Rodriguez, Jordan Bowman, **Tianjia Wang**, Benjamin Adepoju, Kevin Lopez, Christian Newman, Ali Ouni, Mohamed Wiem Mkaouer.<br>
-International Conference on Software and Software Reuse, 2o20 \[[link](https://link.springer.com/chapter/10.1007/978-3-030-64694-3_16)]
+International Conference on Software and Software Reuse, 2020 \[[link](https://link.springer.com/chapter/10.1007/978-3-030-64694-3_16)]
