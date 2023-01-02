@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Download CV](https://wangt7.github.io/files/CV.pdf)
+[Tianjia Wang's CV](https://wangt7.github.io/files/CV.pdf)
